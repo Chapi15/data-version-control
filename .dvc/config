@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:\Users\A-L-F\AppData\Local\Temp\dvcstore\remote_storage\
