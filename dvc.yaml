@@ -1,0 +1,4 @@
+artifacts:
+  SGD-Classifier-100:
+    path: model/model.joblib.dvc
+    type: model
